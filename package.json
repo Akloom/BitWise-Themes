@@ -5,7 +5,7 @@
   "publisher": "Akloom",
   "license": "MIT",
   "repository": "https://github.com/Akloom/bitwise-snippets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "image/logo.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -19,6 +19,11 @@
         "label": "BitWise Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/BitWise Space Theme-color-theme.json"
+      },
+      {
+        "label": "BitWise Wood Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitWise Wood Theme-color-theme.json"
       }
     ]
   }
