@@ -1,0 +1,25 @@
+{
+  "name": "bitwise-themes",
+  "displayName": "BitWise Themes",
+  "description": "Themes that were made by member of the BitWise team",
+  "publisher": "Akloom",
+  "license": "MIT",
+  "repository": "https://github.com/Akloom/bitwise-snippets",
+  "version": "0.0.1",
+  "icon": "image/logo.png",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BitWise Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitWise Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
