@@ -24,6 +24,11 @@
         "label": "BitWise Wood Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/BitWise Wood Theme-color-theme.json"
+      },
+      {
+        "label": "BitWise Atlantic Ocean Theme",
+        "uiTheme": "vs",
+        "path": "./themes/BitWise Atlantic Ocean Theme-color-theme.json"
       }
     ]
   }
