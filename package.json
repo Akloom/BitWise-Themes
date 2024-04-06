@@ -27,7 +27,7 @@
       },
       {
         "label": "BitWise Atlantic Ocean Theme",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/BitWise Atlantic Ocean Theme-color-theme.json"
       }
     ]
