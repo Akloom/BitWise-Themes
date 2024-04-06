@@ -5,7 +5,7 @@
   "publisher": "Akloom",
   "license": "MIT",
   "repository": "https://github.com/Akloom/bitwise-snippets",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "image/logo.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -29,6 +29,11 @@
         "label": "BitWise Atlantic Ocean Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/BitWise Atlantic Ocean Theme-color-theme.json"
+      },
+      {
+        "label": "BitWise Sky Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitWise Sky Theme-color-theme.json"
       },
       {
         "label": "BitWise Avocado Theme",
