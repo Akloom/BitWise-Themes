@@ -5,7 +5,7 @@
   "publisher": "Akloom",
   "license": "MIT",
   "repository": "https://github.com/Akloom/bitwise-snippets",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "image/logo.png",
   "engines": {
     "vscode": "^1.87.0"
