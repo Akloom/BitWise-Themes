@@ -1,17 +1,18 @@
 # BitWise Themes
 
-**BitWise Themes** - это набор кастомных тем для вашего редактора.
+**BitWise Themes** is a collection of custom themes for your editor.
 
-## **Установка**
+## **Installation**
 
-Для установки плагина можно воспользоваться менеджером расширений Visual Studio Code и найти плагин BitWise Themes
+To install the plugin, you can use the Visual Studio Code extension manager and search for the BitWise Themes plugin.
 
-## **Темы**
+## **Themes**
 
-| Тема             | Описание                                           |
-| ---------------- | -------------------------------------------------- |
-| `Space`          | Тёмно-синяя тема в Космическом стиле               |
-| `Wood`           | Коричневая тема в Древесном стиле                  |
-| `Avocado`        | Зеленая тема в стиле Авокадо                       |
-| `Sky`            | Тёмно-голубая тема в стиле Неба                    |
-| `Atlantic Ocean` | Темно-берюзовая тема в стиле Атлантического Океана |
+| Theme            | Description                                             |
+| ---------------- | ------------------------------------------------------- |
+| `Ashen`          | Gray theme with an ashen style                          |
+| `Atlantic Ocean` | Dark turquoise theme in the style of the Atlantic Ocean |
+| `Avocado`        | Green theme in the style of an avocado                  |
+| `Sky`            | Dark cyan theme with a sky style                        |
+| `Space`          | Dark blue theme with a cosmic style                     |
+| `Wood`           | Brown theme with a wooden style                         |

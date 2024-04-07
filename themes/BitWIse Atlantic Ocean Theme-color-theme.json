@@ -46,7 +46,7 @@
     "sideBar.foreground": "#cbcbcb",
     "scrollbarSlider.background": "#d5d5d521",
     "scrollbarSlider.activeBackground": "#d5d5d53d",
-    "editorLineNumber.foreground": "#085854",
+    "editorLineNumber.foreground": "#0fa199",
     "breadcrumb.foreground": "#dadada",
     "breadcrumb.focusForeground": "#ffffff"
   },

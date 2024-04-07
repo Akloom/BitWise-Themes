@@ -5,7 +5,7 @@
   "publisher": "Akloom",
   "license": "MIT",
   "repository": "https://github.com/Akloom/bitwise-snippets",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "image/logo.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -16,14 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "BitWise Dark Theme",
+        "label": "BitWise Ashen Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/BitWise Space Theme-color-theme.json"
-      },
-      {
-        "label": "BitWise Wood Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/BitWise Wood Theme-color-theme.json"
+        "path": "./themes/BitWise Ashen Theme-color-theme.json"
       },
       {
         "label": "BitWise Atlantic Ocean Theme",
@@ -31,14 +26,24 @@
         "path": "./themes/BitWise Atlantic Ocean Theme-color-theme.json"
       },
       {
+        "label": "BitWise Avocado Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitWise Avocado Theme-color-theme.json"
+      },
+      {
         "label": "BitWise Sky Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/BitWise Sky Theme-color-theme.json"
       },
       {
-        "label": "BitWise Avocado Theme",
+        "label": "BitWise Space Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/BitWise Avocado Theme-color-theme.json"
+        "path": "./themes/BitWise Space Theme-color-theme.json"
+      },
+      {
+        "label": "BitWise Wood Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitWise Wood Theme-color-theme.json"
       }
     ]
   }
